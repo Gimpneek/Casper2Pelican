@@ -1434,6 +1434,10 @@ body:not(.post-template) .post-title {
     margin-bottom: 1.75em;
 }
 
+.twitter-video iframe{
+    margin: 0;
+}
+
 /* ==========================================================================
    8. Pagination - Tools to let you flick between pages
    ========================================================================== */
